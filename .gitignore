@@ -1,4 +1,8 @@
+# Rust (read: Cargo) output:
 /target
+
+# Nix flake direnv cache
 .direnv/
-result/
-result
+
+# Nix flake build output
+/result
